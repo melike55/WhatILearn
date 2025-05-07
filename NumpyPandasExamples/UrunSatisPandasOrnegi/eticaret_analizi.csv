@@ -1,0 +1,11 @@
+Tarih,Kategori,Ürün,Fiyat,Stok,Toplam_Stok_Degeri
+2023-01-01,Elektronik,Telefon,1500.0,30,45000.0
+2023-01-08,Elektronik,Kulaklık,200.0,50,10000.0
+2023-01-15,Giyim,Tişört,50.0,20,1000.0
+2023-01-22,Giyim,Pantolon,80.0,25,2000.0
+2023-01-29,Elektronik,Tablet,300.0,40,12000.0
+2023-02-05,Giyim,Ceket,100.0,15,1500.0
+2023-02-12,Gıda,Peynir,15.0,100,1500.0
+2023-02-19,Gıda,Ekmek,2.0,200,400.0
+2023-02-26,Gıda,Süt,1.5,150,225.0
+2023-03-05,Giyim,Şapka,25.0,30,750.0
